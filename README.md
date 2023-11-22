@@ -11,3 +11,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=FlorentMougenot&show_icons=true&hide_border=true" />
 </picture>
 </div>
+
+
+<img src="https://www.codewars.com/users/FlorentMougenot/badges/large" />
